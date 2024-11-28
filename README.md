@@ -22,7 +22,7 @@ Installare da file zip i seguenti file:
 
 (I file sopra elencati sono disponibili anche nella directory addons)
 
-Aprire la schermata di configurazione dell'add-on Mandrakodi per inserire le credenziali di accesso \
+Aprire la schermata di configurazione dell'add-on Mandrakodi per inserire le credenziali di accesso
 - Start Url
 - Access Password
 
